@@ -1,4 +1,4 @@
-# The Experimental Novel
+# The Experimental Novel [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22988146.svg)](https://doi.org/10.5281/zenodo.22988146)
 
 All novelistic writings of the POST-ARCHIVAL art-research practice. Home of
 *The Revolt of Fiction* — a trilogy — plus the illuminated bibliography
