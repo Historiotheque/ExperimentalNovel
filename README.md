@@ -15,6 +15,9 @@ the-experimental-novel/
 ├── .zenodo.json
 ├── REFMATS.md
 ├── revolt-of-fiction_series-bible_2026-09-26.md
+├── novel-as-a-system_abstract_2026-09-21.md
+├── novel-as-a-system_abstract_v2_2026-09-21.md
+├── text-engine_taxonomy_2026-09-21.md
 ├── constitution.md
 ├── interzone.md
 ├── novel-logs/
@@ -27,9 +30,13 @@ the-experimental-novel/
 ├── novels/
 │   ├── README.md
 │   ├── the-history-project/
+│   │   └── README.md
 │   ├── the-archives-project/
+│   │   └── README.md
 │   ├── the-chronotopium/
+│   │   └── README.md
 │   └── the-exhibition/
+│       └── README.md
 └── src/
     ├── README.md
     └── ...
