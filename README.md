@@ -1,11 +1,22 @@
 # The Experimental Novel [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22988146.svg)](https://doi.org/10.5281/zenodo.22988146)
 
-All novelistic writings of the POST-ARCHIVAL art-research practice. Home of
-*The Revolt of Fiction* — a trilogy — plus the illuminated bibliography
-(REFMATS), the series bible, the novel logs, and the text-engine: Python
-programs for textual experimentation.
+The ExperimentalNovel repository is not a shelf of novels. It is an
+experimental-novel laboratory — the implementation of the novel-as-a-system: a
+complex dynamic system whose moving whole comprises the experimental novels
+themselves, the process of writing them, the thinking about them, and the
+instantiating of novelistic design concepts, plus experimental text-engines
+(Python programs that perform operations on novelistic material). A research
+workshop: research-as-workshop.
 
-Status: scaffolding (2026-09-27) — structure build in progress.
+The loop: design concept → text-engine → novel → log → revised concept. This
+repository simulates the novelistic process itself, not just its products.
+
+This repository is the instantiation of DC-2026-004 (The ExperimentalNovel
+Repository as a Complex Dynamic System), which implements DC-2026-001 (The
+Novel-as-a-System). Design concepts live in the DesignConcepts repository;
+per-novel concepts to come.
+
+Status: scaffolding (2026-09-28) — structure build in progress.
 
 ## Finding aid
 
@@ -14,7 +25,6 @@ the-experimental-novel/
 ├── README.md
 ├── .zenodo.json
 ├── REFMATS.md
-├── revolt-of-fiction_series-bible_2026-09-26.md
 ├── novel-as-a-system_abstract_2026-09-21.md
 ├── novel-as-a-system_abstract_v2_2026-09-21.md
 ├── text-engine_taxonomy_2026-09-21.md
@@ -29,13 +39,16 @@ the-experimental-novel/
 │   └── ...
 ├── novels/
 │   ├── README.md
-│   ├── the-history-project/
-│   │   └── README.md
-│   ├── the-archives-project/
-│   │   └── README.md
-│   ├── the-chronotopium/
-│   │   └── README.md
-│   └── the-exhibition/
+│   ├── the-revolt-of-fiction/
+│   │   ├── README.md
+│   │   ├── revolt-of-fiction_series-bible_2026-09-26.md
+│   │   ├── the-history-project/
+│   │   │   └── README.md
+│   │   ├── the-archives-project/
+│   │   │   └── README.md
+│   │   └── the-chronotopium/
+│   │       └── README.md
+│   └── the-exhibition-in-tonal-cinema/
 │       └── README.md
 └── src/
     ├── README.md
@@ -45,9 +58,27 @@ the-experimental-novel/
 Every folder carries a README.md or index.md — the finding aid extends
 indefinitely, one folder at a time. *Findability and discoverability.*
 
+## The facets
+
+- `novels/` — the works, each a system in its own right: novel series and
+  standalone novels, one folder each.
+- `theory/` — the thinking about the novels, kept alongside them.
+- `src/` + `text-engine_taxonomy_2026-09-21.md` — the computational organs:
+  text-engines that operate on novelistic material.
+- `novel-logs/` — the process record, one piece at a time (first person, on
+  the record).
+- `interzone.md` — the intake membrane: raw ideation stages here before
+  anything reaches canonical text.
+- Series bibles — one per series; the Revolt of Fiction's is the first:
+  canonical text, changed only in batches folded from the Interzone.
+
+The root-level documents are the general layer: the novel-as-a-system
+abstracts and the text-engine taxonomy are about novelistic phenomenology
+itself — the universal, not any one series.
+
 ## The Revolt of Fiction
 
-The trilogy this repository is built around:
+The first work-level system under development here: the trilogy —
 
 1. *The History-Project*
 2. *The Archives-Project*
@@ -55,21 +86,6 @@ The trilogy this repository is built around:
 
 Named after the event: the fiction revolts — the characters put the Author on
 trial; the created turns on the creator.
-
-## The pipeline
-
-Novel log → theory → novels. Sessions are recorded in `novel-logs/` (first
-person, on the record); ideas are backed up by long-form theory in `theory/`;
-finished work lands in `novels/`, one folder per novel.
-
-## Key documents
-
-- `REFMATS.md` — the illuminated bibliography: Chicago citation plus the
-  author's interpretation. Winks, not theft.
-- `revolt-of-fiction_series-bible_2026-09-26.md` — the series bible (living
-  document; amended in batches, never per-idea).
-- `interzone.md` — the staging buffer: new ideas enter as dated entries.
-- `constitution.md` — feature-branch governance for the repository.
 
 ## Scope
 
