@@ -120,3 +120,30 @@ OPEN: novels/ vs projects/ for the per-novel folders — my word tomorrow. Nothi
 - **Cognitive collapse (my term):** the work is metafiction; at higher orders of abstraction readers hit cognitive collapse — they can't make sense of it anymore, get frustrated and discouraged, and stop reading. Challenging is good; too challenging is a failure mode. So the narrative needs a simple story underneath the machinery — this is what the Simplicity amendment is for. The repo mirrors this: prune it down periodically; versions can scale up and scale down with my practice.
 - **Interpretability:** like the interpretability/explainability problem in machine intelligence — in the repo it's not always clear why choices were made; some are quasi-autonomous. The novel-as-a-system is not about having a complex codebase; it's about telling a story using code.
 - **Literate programming:** the experimental-novel repo will carry notebooks with working code — showing, e.g., a phenomenological ontology in Python classes, metaclasses, and data structures. Code and story in one document; the explanation IS the program.
+
+---
+
+## 2026-09-28 17:49 EDT — test suite for cultural software (staged, concept / future DC candidate)
+
+- The idea (mine): the equivalent of a test suite — and of test-driven development (TDD) — for Cultural Software such as the experimental-novel repository.
+- The first failed test already happened (2026-09-27): the README finding-aid tree didn't mirror the repo's actual structure (three root files missing; per-novel READMEs unlisted). "The finding aid mirrors reality" is an executable invariant — a test.
+- Candidate invariants: the README tree matches the actual file listing; every folder carries a README.md or index.md; the strict public-file rules hold (no personal material, no AI mention, no local paths with usernames); file-naming conventions hold.
+- The doctrine rhyme (my words — I called it "brilliant"): the checklist doctrine turned executable. My checklists are fast-and-frugal yes/no decision trees built for the operator; a test suite is the same trees, run by the machine. Fits the incorruptible-source doctrine (DC-2026-005): the main branch stays crystalline because the tests guard it.
+- TO LOG: this development goes in the next studio log — I called it deep research; it must be documented, not forgotten.
+- Status: concept staged; a full design concept to come. Not decided: which invariants, run by what, run when (pre-commit? pre-release?).
+
+---
+
+## 2026-09-28 18:30 EDT — repo surgery executed (record)
+
+- I restructured `novels/` today around `the-revolt-of-fiction/`: the three trilogy novels moved inside, the series bible moved from the repo root into the series folder (root stays lean — more bibles will come), and `the-exhibition/` renamed `the-exhibition-in-tonal-cinema` (the book's actual title).
+- I rewrote the root README as the experimental-novel laboratory: the implementation of the novel-as-a-system (DC-2026-004), the loop (design concept → text-engine → novel → log → revised concept), the facets, series bibles one per series.
+- Committed and pushed via GitHub Desktop 2026-09-28. Nothing pending below was touched — this entry only records what changed.
+
+---
+
+## 2026-09-28 19:05 EDT — staged: stratigraphy + Crackland bible material
+
+- **Staged for the bible/theory (the repo as a geological formation).** From my Dec 8, 2023 "Geology of the Workspace" article: the Geological Method treats the phenomenal world as sedimentary layers of geo-grammatical forms, built by accretion — and the true geology turned out to be the geology of my workspace. This is the deep logic of this repository's architecture: the Interzone stages accretions, the bible folds them in batches, oldest strata at the bottom, never rearranged. The law of superposition is the no-backfill rule, stated as geology. Candidate: the bible's theory section, or a design concept. Staged, not filed.
+- **Staged for the next series-bible batch (Crackland).** "Crackland & The Crackland Journals" was the actual filename of some 400 pages I wrote on the computer — material never in the physical manuscript of The History-Project — and Crackland is fundamental to that novel's physical cosmology. Origin 2001–2004: the concept came from my own workspace methodology first; the fictional world came second. Fold into the bible's cosmology in the next batch — not written into the bible now.
+- **Record:** novel log #2 (`novel-logs/2026-09-28-1900-second-novel-log.md`) written 2026-09-28, covering the repo surgery, the versioning doctrine, the test-suite concept, and the Geology material. Pending items below untouched.
