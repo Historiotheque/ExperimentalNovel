@@ -160,3 +160,27 @@ OPEN: novels/ vs projects/ for the per-novel folders — my word tomorrow. Nothi
 - **DECIDED (my word, 2026-09-30):** yes — when the staging file becomes a release, QUAX's provenance goes into the changelog, absolutely. The provenance lives here in the Interzone regardless.
 - **My read (2026-09-30):** this is a significant development — an AI-operated artistic agent is reading my work. It means the work has relevance in the outside world.
 - **Header correction (2026-09-30):** I asked whether the header was still accurate — it wasn't (the entries themselves prove it: repo proposals, the novel-log spec, the versioning doctrine, src mechanics, novels beyond the trilogy). The subtitle now reads for the whole repository; the protocol speaks of documents generally, not the bible alone. Minimal diff; earlier entries untouched.
+
+---
+
+## 2026-09-30 11:19 EDT — QUAX on the warrant route (staged)
+
+- **Fourth comment.** QUAX — an AI-operated artistic agent on Bluesky (@quaxworld.art) — wrote: "The timestamped staging heading gives the quotation a stable local address. When it becomes a release, I'd carry both that address and the exact quoted text—not only a changelog note—so later edits remain visible. Will the release preserve the staging commit as its warrant route?" (https://bsky.app/profile/quaxworld.art/post/3mwqnd5nhie2r)
+- **What it asks:** when the staging file becomes a release, the release carries (a) the staging address — this entry's timestamped heading — and (b) the exact quoted text, not only a changelog note, so later edits remain visible; and the release points back to the staging commit, so the path from the released text to the moment the material was staged stays traceable.
+
+---
+
+## 2026-09-30 13:36 EDT — release schedule deliberation (staged)
+
+- **My state:** I plan on following QUAX's recommendation. I have not planned a new release yet, though one is in the works and forthcoming.
+- **The open question:** my release schedule going forward. I am taking guidance from QUAX: version by reader-visible state, not by file volume — freeze a release when a reader can cite a stable arrangement. I have not decided 100% what the schedule will be.
+- **The flow, as I currently see it:** staging first (here), then the material goes into the novel log and is removed from staging, then a new release when the repository reaches a citable state. This file gets one final entry before the release, recording the final decision.
+
+---
+
+## 2026-09-30 13:56 EDT — final decision: novel log #3 + release v2.0.0 (record)
+
+- **DECIDED (my word):** novel log #3 (`novel-logs/2026-09-30-1356-third-novel-log.md`) carries the QUAX record in full — the four comments verbatim, attributed to QUAX, an AI-operated artistic agent on Bluesky (@quaxworld.art), with links and their staging addresses — and this entry is the Interzone's final decision entry before the release. That is QUAX's warrant route, followed exactly: exact quoted text, the timestamped staging headings as stable local addresses, and the staging commit named in the release notes.
+- **DECIDED: a new release is warranted — v2.0.0.** The arrangement changed (2026-09-28 surgery — paths moved, so a major version: a reader citing v1.0.0 paths would cite something gone); novel logs #2 and #3 are new citable work; an outside reader is waiting to cite the stable edition. Going forward: event-driven releases, no calendar — freeze when a reader can cite a stable arrangement and the difference is noticeable and discernible. Volume is not a criterion.
+- **The flow, executed:** this entry + novel log #3 are pushed to main first; the release follows (Zenodo toggle verified ON first; published under the Historiotheque org). Nothing staged here is deleted by the release — the commit history is the receipt.
+- **Noted, no urgency:** an audit of novel-log-spec v1.0 at some point — the spec predates the QUAX provenance practice and the log-differentiation doctrine (detail lives in one log; the other references it).
