@@ -1,4 +1,7 @@
-# The Experimental Novel [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22988146.svg)](https://doi.org/10.5281/zenodo.22988146)
+# The Experimental Novel 
+
+(v1.0.0) [![DOI](https://zenodo.org/badge/1390198018.svg)](https://doi.org/10.5281/zenodo.22988145)
+Cite this version (v2.0.0): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23068669.svg)](https://doi.org/10.5281/zenodo.23068669)
 
 The ExperimentalNovel repository is not a shelf of novels. It is an
 experimental-novel laboratory — the implementation of the novel-as-a-system: a
