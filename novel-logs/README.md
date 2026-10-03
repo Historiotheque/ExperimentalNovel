@@ -36,6 +36,7 @@ date and sources — never backfilled silently.
 
 | File | Date | Session |
 |---|---|---|
+| `2026-10-03-0550-fourth-novel-log.md` | 2026-10-03 | Fourth novel log: Crackland received and read in full (~248,000 words), title adopted (Crackland: Land of Fissures), own folder + story bible v1.0, trilogy READMEs replaced, trilogy chronology corrected, commit signing live, QUAX comment #5 and the reader-correspondence boundary |
 | `2026-09-30-1356-third-novel-log.md` | 2026-09-30 | Third novel log: the QUAX record in full (four comments verbatim, attributed, linked), the warrant route, the v2.0.0 release decision, event-driven release schedule, log differentiation |
 | `2026-09-28-1900-second-novel-log.md` | 2026-09-28 | Second novel log: repo surgery (the-revolt-of-fiction/ series folder, the-exhibition-in-tonal-cinema/ rename, README as laboratory), versioning doctrine (reader's rule), test-suite concept, Geology of the Workspace (Crackland & The Crackland Journals), novelistic phenomenology, life-problems rule |
 | `2026-09-27-0010-first-novel-log.md` | 2026-09-27 | First novel log (reconstructed; covers 2026-09-20 → 2026-09-27): project brief, Nihilist drafts, text-engine taxonomy, novel-as-a-system abstracts, 9 Archives-Project files, series bible v1.0, Interzone, constitution, REFMATS, LOCKED TITLES, trilogy cosmology, folder-structure proposal |
