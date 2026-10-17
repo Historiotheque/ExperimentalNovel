@@ -203,3 +203,14 @@ OPEN: novels/ vs projects/ for the per-novel folders — my word tomorrow. Nothi
 ## 2026-10-16 01:12 EDT — the theory digest (fold marker)
 
 - **Folded (2026-10-16):** the novel-theory developments of 2026-10-11 → 2026-10-16 — my novel-arc ruling, the Abstract Characterology consolidation and the Character-Space ruling, the scoped adoption of the five Functional Style modes, the bridging note, and my ruling that projects are workspaces — were never staged here; they are collected from their channels and folded directly into novel log #5 (`novel-logs/2026-10-16-0112-fifth-novel-log.md`). This entry is the fold marker.
+
+---
+
+## 2026-10-17 11:20 EDT — correction: "illumination" is not my REFMATS word (staged)
+
+- **CORRECTION (my word, 2026-10-17):** the 2026-09-27 entry in this file equated my REFMATS term "illumination" with Walter Benjamin's *profane illumination*. That equation is wrong, and I withdraw it. Benjamin's term does specific work in his 1929 essay on Surrealism; it is not what my word meant, and I do not claim to have "illuminations." Going further: I do not want "illumination" used for REFMATS at all. In my usage the word is reserved for Benjamin's profane illumination, which belongs to my work on art history, art historiography, and Surrealism.
+- **The rename (my ruling, 2026-10-17):** in REFMATS.md, the interpretive part of an entry is called the **interpretation**. "Illuminated bibliography" is dropped; the tagline, the format line, and the closing line are amended to match; the entry label "**Illumination.**" becomes "**Interpretation.**" The amendment is naming only — every entry's text stands exactly as written. REFMATS.md carries no version number; this entry and the commit are the record of the change.
+- **Provenance, checked 2026-10-17:** no trace of "illuminated bibliography" in my August REFMATS schemas or in my taxonomy. It entered in the September 2026 repo-build documents and was recorded from there as if it were my term. I find no evidence I coined it.
+- The 2026-09-27 entry stands as written (no backfill). Its TO FOLD item — a Benjamin entry in REFMATS anchoring "illuminated" to profane illumination — is dead and will not be folded. A Benjamin entry may still enter REFMATS on its own merits. The other items staged in that entry (historiophany and historiagogy for the bible; the aha-interruption doctrine) are unaffected by this correction.
+- Novel log #1 (2026-09-27) uses the old naming; it is a dated record and stands. This entry is the record's answer to it.
+- **Prepared 2026-10-17:** the amended REFMATS.md (Library master; goal-workspace copy synced). The batch — REFMATS.md + this entry — awaits my placement and commit.
