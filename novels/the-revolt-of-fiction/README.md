@@ -17,9 +17,11 @@ Archives-Project* was being written; the third volume's slot was originally
 held by *Integration/Disintegration* before *The Chronotopium* took its
 place.
 
-Companion work, outside the trilogy: *Crackland: Land of Fissures*
-(`../crackland-land-of-fissures/`) — a single novel fused with *The
-History-Project*, governed by its own story bible.
+Annexed work, inside the trilogy's first volume: *Crackland: Land of
+Fissures* (`the-history-project/annex-crackland/`) — fused with *The
+History-Project* and part of it, governed as part of vol. 1 (ruling,
+2026-10-17: Crackland is not a separate novel, and its document is an
+annex, not a second bible).
 
 A work-level system (DC-2026-006: The Revolt of Fiction System) — the novels,
 the process of writing them, and the design concepts, as one governed unit.

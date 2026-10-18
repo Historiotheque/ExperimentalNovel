@@ -22,6 +22,21 @@ Archives-Project*.
 to 2015). The novel also sits inside the larger CHRONOTOPIUM-PROJECT,
 alongside the Chronotopium-Series of paintings.
 
+**The flaw (discovered 2026-10-17).** There will be no love in the
+Chronotopium — no authentic love. The argument, taken from a discussion
+of Catholic theology: God judges that a universe containing creatures
+capable of authentic love — which inherently carries the risk of genuine
+rejection and moral failure — is a greater good than a universe of
+programmed automata who cannot sin, but likewise cannot truly love.
+Take away the risks of rejection and failure, and you take away the
+freedom of choice, which negates the existence of love. The Chronotopium
+is the City of God, the Kingdom, built as a system; a system that
+guarantees its outcomes has removed exactly those risks. So the
+Chronotopium dies without love, and must also be an abject failure —
+the trilogy's third failure, after the failure of *The History-Project*
+and the collapse of *The Archives-Project*: this one by completion
+rather than by lack.
+
 **Status:** conception complete in the series bible; the code and the novel
 are to be written. Drafting follows vols. 1–2 in the working order (begin
 with *The Archives-Project*).

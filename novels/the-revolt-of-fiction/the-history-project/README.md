@@ -20,9 +20,9 @@ workspace theory: the work couldn't see the room it was happening in.
 **The material.** Written on the typewriter, 2001–2002. The manuscript was
 over 100 pages; under 100 survive — much was lost to water damage. The bulk
 of what the project became lives in its fused companion work,
-*Crackland: Land of Fissures* (`../../crackland-land-of-fissures/`), written
+*Crackland: Land of Fissures* (`annex-crackland/`, inside this folder), written
 on the computer at the same time and supplying this novel's physical
-cosmology: the two are essentially one master work. Compositional law,
+cosmology: the two are essentially one master work. (Placement corrected 2026-10-17, by the author's ruling: Crackland is part of this novel, not a separate one.) Compositional law,
 stated in the text: no character may be a *writer* first — only painters'
 journals, doctors' memoirs, historians' letters.
 
